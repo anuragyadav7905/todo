@@ -4,6 +4,12 @@ A **space-themed 3D task manager** built with React, Three.js, and Zustand. Mana
 
 ---
 
+## 📸 Screenshots
+
+![App Preview](./public/screenshots/preview.png)
+
+---
+
 ## ✨ Features
 
 - **3D Scene** — Interactive WebGL background powered by `@react-three/fiber` with a floating mug, space debris, and a mouse-tracked camera rig
